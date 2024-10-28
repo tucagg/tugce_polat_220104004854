@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="fazil_say" size="1.000000 1.777778" />
+    <ImageTarget name="at" size="1.000000 1.777778" />
+    <ImageTarget name="kayisi_kola" size="1.000000 1.777778" />
+    <ImageTarget name="img_5106" size="1.000000 1.234188" />
+  </Tracking>
+</QCARConfig>
